@@ -30,7 +30,7 @@ Synop data are free meteo data from meteo-france stations given as CSVs.
 
 ### what to do with those data ###
 
-You can make graphs, run : xxx.py
+You can make graphs, run : temperatures_near_paris_1996.py
 It will make an html file in {base_dir}/graphs, double clic it, it will open it in your internet browser, this is an interactive graph of temperature in 1996 near paris.
 
 ![1996 orly temperatures](/img_for_readme/1996temperatures.png?raw=true "1996 orly temperatures")
